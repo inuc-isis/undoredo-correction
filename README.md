@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # stateChartsJS
 
 stateChartsJS est un projet qui démontre l'utilisation des statecharts en JavaScript.
@@ -15,3 +16,7 @@ Suivez ces étapes pour configurer le projet :
 ## Exécution du Projet
 
 Après avoir installé les dépendances, vous pouvez démarrer le projet en exécutant : `npm run dev`
+=======
+# undoredo-correction
+TP statecharts + undo redo Corrigés
+>>>>>>> origin/main
